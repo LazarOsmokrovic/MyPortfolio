@@ -2,7 +2,6 @@ import styled from 'styled-components'
 
 export const ContactContainer = styled.div`
     color: #fff;
-    //background:  ${({ lightBackground }) => ( lightBackground ? '#fefcfb' : '#010606')};
     background: #fefcfb;
 
     @media screen and (max-width: 768px) {

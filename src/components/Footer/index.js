@@ -30,10 +30,10 @@ const Footer = () => {
                         <FooterLinksItems>
                             <FooterLinktitle>Navigation</FooterLinktitle>
                             <FooterLinksRow>
-                            <FooterLink to='aboutMe' smooth={true} duration={500} spy={true} exact='true' offset={-90}>AboutMe</FooterLink>
-                            <FooterLink to='skill' smooth={true} duration={500} spy={true} exact='true' offset={-90}>My skills</FooterLink>
-                            <FooterLink to='projects' smooth={true} duration={500} spy={true} exact='true' offset={-90}>Projects</FooterLink>
-                            <FooterLink to='contact' smooth={true} duration={500} spy={true} exact='true' offset={-90}>contact</FooterLink>
+                            <FooterLink to='aboutMe' smooth={true} duration={500} spy={true} exact='true' offset={-80}>AboutMe</FooterLink>
+                            <FooterLink to='skill' smooth={true} duration={500} spy={true} exact='true' offset={-80}>My skills</FooterLink>
+                            <FooterLink to='projects' smooth={true} duration={500} spy={true} exact='true' offset={-80}>Projects</FooterLink>
+                            <FooterLink to='contact' smooth={true} duration={500} spy={true} exact='true' offset={-80}>contact</FooterLink>
                             </FooterLinksRow>
                         </FooterLinksItems>
                     </FooterLinksWrapper>
