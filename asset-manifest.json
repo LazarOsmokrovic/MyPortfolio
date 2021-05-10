@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.fcbccf0a.chunk.css",
+    "main.js": "/MyPortfolio/static/js/main.cffd4770.chunk.js",
+    "main.js.map": "/MyPortfolio/static/js/main.cffd4770.chunk.js.map",
+    "runtime-main.js": "/MyPortfolio/static/js/runtime-main.a0e370e6.js",
+    "runtime-main.js.map": "/MyPortfolio/static/js/runtime-main.a0e370e6.js.map",
+    "static/js/2.f3674455.chunk.js": "/MyPortfolio/static/js/2.f3674455.chunk.js",
+    "static/js/2.f3674455.chunk.js.map": "/MyPortfolio/static/js/2.f3674455.chunk.js.map",
+    "index.html": "/MyPortfolio/index.html",
+    "static/css/main.fcbccf0a.chunk.css.map": "/MyPortfolio/static/css/main.fcbccf0a.chunk.css.map",
+    "static/js/2.f3674455.chunk.js.LICENSE.txt": "/MyPortfolio/static/js/2.f3674455.chunk.js.LICENSE.txt",
+    "static/media/Lazar.ad7c2e02.jpeg": "/MyPortfolio/static/media/Lazar.ad7c2e02.jpeg",
+    "static/media/svg-1.24daf19e.svg": "/MyPortfolio/static/media/svg-1.24daf19e.svg",
+    "static/media/svg-2.211566e5.svg": "/MyPortfolio/static/media/svg-2.211566e5.svg",
+    "static/media/svg-3.b9df85b4.svg": "/MyPortfolio/static/media/svg-3.b9df85b4.svg",
+    "static/media/video.d28831bc.mp4": "/MyPortfolio/static/media/video.d28831bc.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0e370e6.js",
+    "static/js/2.f3674455.chunk.js",
+    "static/css/main.fcbccf0a.chunk.css",
+    "static/js/main.cffd4770.chunk.js"
+  ]
+}
