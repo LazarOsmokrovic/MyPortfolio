@@ -1,6 +1,7 @@
 import React, {useState} from 'react'
 import Video from '../../videos/video.mp4'
 import {Button} from '../ButtonElement'
+import Lazar_Osmokrovic_CV from '../../files/Lazar_Osmokrovic_CV.pdf'
 import {
     WelcomeContainer, 
     WelcomeBackground, 
@@ -33,7 +34,7 @@ const onHover = () => {
                             onMouseLeave={onHover} 
                             primary='true' 
                             dark='true' 
-                            href={"/Lazar_Osmokrovic_CV.pdf"} 
+                            href={Lazar_Osmokrovic_CV} 
                             download="Lazar_Osmokrovic_CV.pdf">CV {hover ? <ArrowForward/> : <ArrowRight/>}
                     </Button>
                 </WelcomeButtonWrapper>

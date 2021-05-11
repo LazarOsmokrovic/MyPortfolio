@@ -49,14 +49,18 @@ export const ContactForm = styled.form`
         width: 400px;
     }
 
-    @media screen and (max-width: 480px) {
+    @media screen and (max-width: 500px) {
         width: 300px;
+    }
+
+    @media screen and (max-width: 280px) {
+        width: 150px;
     }
 `
 
 export const ContactInput = styled.input`
     color: #000;
-    width: 600px;
+    width: 100%;
     background: transparent;
     border: none;
     outline: none;
@@ -69,8 +73,12 @@ export const ContactInput = styled.input`
         width: 400px;
     }
 
-    @media screen and (max-width: 480px) {
+    @media screen and (max-width: 500px) {
         width: 300px;
+    }
+
+    @media screen and (max-width: 280px) {
+        width: 150px;
     }
 `
 
@@ -81,7 +89,7 @@ export const ContactLabel = styled.label`
 export const ContactTextArea = styled.textarea`
     resize: none;
     overflow-y: auto;
-    width: 600px;
+    width: 100%;
     height: 200px;
     background: transparent;
     border: none;
@@ -96,8 +104,12 @@ export const ContactTextArea = styled.textarea`
         width: 400px;
     }
 
-    @media screen and (max-width: 480px) {
+    @media screen and (max-width: 500px) {
         width: 300px;
+    }
+
+    @media screen and (max-width: 280px) {
+        width: 150px;
     }
 `
 
