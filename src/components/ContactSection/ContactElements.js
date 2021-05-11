@@ -48,6 +48,10 @@ export const ContactForm = styled.form`
     @media screen and (max-width: 700px) {
         width: 400px;
     }
+
+    @media screen and (max-width: 480px) {
+        width: 300px;
+    }
 `
 
 export const ContactInput = styled.input`
@@ -63,6 +67,10 @@ export const ContactInput = styled.input`
 
     @media screen and (max-width: 700px) {
         width: 400px;
+    }
+
+    @media screen and (max-width: 480px) {
+        width: 300px;
     }
 `
 
@@ -86,6 +94,10 @@ export const ContactTextArea = styled.textarea`
 
     @media screen and (max-width: 700px) {
         width: 400px;
+    }
+
+    @media screen and (max-width: 480px) {
+        width: 300px;
     }
 `
 
